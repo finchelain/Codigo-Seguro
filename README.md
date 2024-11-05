@@ -38,7 +38,7 @@ Contributors names and contact info
 
 * ex. Borja González
 * ex. Irene CID Rico
-* ex. Marcos Alvarez
+* ex. [Marcos Alvarez] (Marcos.md)
 
 ## Version History
 
