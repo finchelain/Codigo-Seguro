@@ -36,7 +36,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-* ex. Borja González
+* ex. [Borja González](https://github.com/finchelain/Codigo-Seguro/blob/main/Borja.md)
 * ex. Irene CID Rico
 * ex. [Marcos Alvarez](https://github.com/finchelain/Codigo-Seguro/blob/main/Marcos.md)
 
