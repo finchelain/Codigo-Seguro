@@ -36,8 +36,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Borja González
-Irene CID Rico
+* ex. Borja González
+* ex. Irene CID Rico
+* ex. Marcos Alvarez
 
 ## Version History
 
