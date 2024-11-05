@@ -38,7 +38,7 @@ Contributors names and contact info
 
 * ex. Borja González
 * ex. Irene CID Rico
-* ex. [enlace a Marcos Alvarez] (https://github.com/finchelain/Codigo-Seguro/blob/main/Marcos.md)
+* ex. Marcos Alvarez (https://github.com/finchelain/Codigo-Seguro/blob/main/Marcos.md)
 
 ## Version History
 
