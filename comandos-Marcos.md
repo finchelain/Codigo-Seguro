@@ -24,7 +24,7 @@
 
 ##Paso 1:Vamos a crear una rama develop en nuestro remote>>
  *git checkout -b develop
- *git push origin develop
+ *git push origin develop,
 
 
 
